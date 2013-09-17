@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "MetaPage",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Details of the currently viewing page",
+    "description": "The description of the application"
+  }
+}

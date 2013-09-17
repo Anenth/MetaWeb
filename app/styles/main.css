@@ -1,0 +1,39 @@
+.MetaInfoBar{
+	height:40px;
+	position: fixed;
+	width: 100%;
+	z-index: 99999999999999999999999;
+	background: #EEE;
+	box-shadow: 0 0 2px #777;
+	border-bottom: 1px solid #888;
+	font-family: Helvatica;
+}
+.MetaInfoBar .title{
+	text-align: center;
+	margin-top: 10px;
+	line-height: 10px;
+	font-family: Helvatica;
+	font-size: 14px;
+	font-weight: bold;
+	color: #555;
+}
+.MetaBox {
+	font-family: Helvatica;
+	font-size: 12px;
+	font-weight: normal;
+	position: absolute;
+	top: 0;
+	background: #FFF;
+	padding: 5px;
+	border-radius: 5px;
+	margin-top: 7px;
+	border: 1px solid #999;
+	cursor: default;
+	color: #555;
+}
+.rank.MetaBox{
+	right: 10%;
+}
+.visits.MetaBox{
+	left:10%;
+}
